@@ -1,5 +1,3 @@
-## Summary of my learnings from the resources provided
-
 **Name:    VAMSI RAM**
 
 **E-mail : vamsiramg@gmail.com**
