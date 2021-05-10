@@ -2,7 +2,7 @@
 
 **E-mail : vamsiramg@gmail.com**
 
-This readme file includes the summary of my learnings from the resources provided in the Data Science Internship by Wow Labz on Conduira online platform.
+This readme file includes the summary of my learnings from the resources provided in the Data Science Internship by wowlabz on conduira online platform.
 
 
 # 1.What does a Data Scientist do?
@@ -159,7 +159,7 @@ It is the opposite of the agglomerative. In this we consider all of the data poi
 In this summary firstly I have given a brief introduction of what a Data Scientist does and explained the workflow of a data science project.Next I have focussed on the first and most important step in the data science workflow which is Data Wrangling.I discussed some of the baisc commands in Python in order to understand the type of data which you are dealing with and how to clean and filter the data based on the problem statement.
 Then I gave a brief description of Machine Learning and its significance in developing the prediction models.I have also discussed various types of prediction categories such as Classificaion and Regression and also mentioned the important and efficient algorithms that need to be implemented for different problem cases.Also different types of linear and non linear prediction models and algorithms are discussed.
 
-I am greatly obliged and thank Wow Labz for providing me the valuable learning resources in order to kickstart my internship.I also take this oppurtunity to thank Conduira online for providing me a platform in order to learn and develop my skills.
+I am greatly obliged and thank wowlabz for providing me the valuable learning resources in order to kickstart my internship.I also take this oppurtunity to thank Conduira online for providing me a platform in order to learn and develop my skills.
 
 
 
